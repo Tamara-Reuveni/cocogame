@@ -150,7 +150,7 @@ p.nominalBounds = new cjs.Rectangle(-20,-8,41,25);
 	this.initialize(mode,startPosition,loop,{});
 
 	// Layer_1
-	this.text = new cjs.Text("קח מספרים רגעים למנוחה אך חזור במהרה, הקוף מחכה לך!", "24px 'Arial'");
+	this.text = new cjs.Text("קח מספר רגעים למנוחה אך חזור במהרה, הקוף מחכה לך!", "24px 'Arial'");
 	this.text.textAlign = "center";
 	this.text.lineHeight = 29;
 	this.text.lineWidth = 454;
